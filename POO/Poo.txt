@@ -1,0 +1,25 @@
+La POO est un paradigme ou une manière de coder.
+-Classe: plan de conception, Exple: Eleve
+-Objet: instance de Classe Exple: Julien
+-Attribut: Variable de classe Exple: nom, age
+-Propriété: manière de manipuler les attributs (lecture seule, accès non autorisé en dehors de la classe,...)
+
+-Méthode: fonction (ex: manger, marcher, dormir)
+-Méthode de classe: fonction d'une classe (à venir plus tard)
+-Méthode statique: fonction d'une classe, mais indépendante de celle-ci
+
+-Héritage: classe Fille qui hérite d'une classe MERE (Chat herite de Animal)
+
+De Emmanuel Desfourneaux 
+La révolution des « casserolades »
+Oui, ils l’ont fait ! Ce 22 juin restera dans les annales de la démocratie sénégalaise. Des concerts de casserole et de klaxon ont retenti partout dans le Sénégal faisant suite à l’appel d’Ousmane Sonko.
+Pourtant, les partisans de Macky Sall n’avaient pas lésiné sur les moyens pour décourager cette manifestation sonore. Dans la presse en ligne, d’aucuns ont brandi la menace pénale au titre de pollution sonore et tapage nocturne. Pour cela, des experts en environnement, sortis tout droit de leur laboratoire, ont été appelés à la rescousse.
+La Pravda « Le Soleil » a même ressorti la momie de Robert Bourgi. C’est dire si leur affolement était grand.  Ce symbole désuet de la France Afrique a tenté de vendre, comme au marché Sandaga, les bienfaits de Macky Sall. 
+A l’UCAD, les étudiants trépignaient d’impatience. Ils avaient déjà répété leurs partitions. En réponse, le pouvoir a envoyé leurs nervis. Ce soir, pourtant, les étudiants sont sortis unis avec l’insouciance si caractéristique à la jeunesse. Des scènes inédites se sont produites : un jeune bien calé dans une brouette avec ses casseroles se faisaient royalement pousser. 
+Et puis il y a eu les équidistants, ceux qui sont dans l’opposition mais qui ne sont ni avec Macky Sall ni derrière Ousmane Sonko. En réalité, pour le coup, ceux-là, ils n’entreront jamais dans l’histoire politique !
+Oui, ils l’ont fait ! Ce 22 juin, au Sénégal, des jeunes ne sont pas tombés dans les pièges cyniques de Macky Sall. Ils sont sortis pacifiquement pour exprimer leur détresse et leur ras-le-bol face aux atteintes répétées à la démocratie sénégalaise. Les casseroles ont remplacé les œillets (Portugal, en 1974). Les forces de l’ordre, ce soir, resteront piteusement dans leur caserne. La casserole ne pourra pas être accusée d’atteinte à la sûreté de l’état ou d’acte de terrorisme. 
+Si la méthode de la casserole n’est pas nouvelle dans le monde, elle peut prendre une nouvelle tournure au Sénégal. Ce serait inédit dans l’histoire politique. Une casserole, un ustensile pas vraiment éblouissant, pourrait l’emporter sur un régime politique. A condition que ces manifestations sonores s’inscrivent dans la durée et dans une vocation pacifique.
+Cette jeunesse, le 22 juin, a montré sa détermination, sa discipline et son désir de changement. Elle est un modèle pour toute l’Afrique. Ces jeunes sont devenus des héros ordinaires. Leur leader Ousmane Sonko en sort renforcé. 
+Et la France ? Va-t-elle enfin se ranger  du côté du peuple sénégalais ? Son silence, lors des dernières manifestations, est assourdissant et résonne comme une complicité qui finira par se retourner lourdement contre elle. 
+Emmanuel Macron, avec Achille Mbembé, lors du Sommet Afrique France à Montpellier, avait promis de soutenir les organisations œuvrant pour la démocratie en Afrique. N’est-il pas temps d’être du bon côté de l'histoire pour une fois ?
+J'espère que Mame Diarra Fam, Déthié Fall et Ahmed Aïdara entendront de leurs cellules le bruit solidaire des casseroles. Courage !

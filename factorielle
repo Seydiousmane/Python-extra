@@ -1,0 +1,18 @@
+""" def factorielle(n):
+    if n == 0 or n==1:
+        facto = 1
+    else:
+        facto = 1
+        for i in range(2, n+1):
+            facto = i * facto
+    return facto
+
+print(factorielle(5)) """
+
+def factorielle_rec(n):
+    if n==0 or n==1:
+        return 1
+    else:
+        return n* factorielle_rec(n-1)
+
+print(factorielle_rec(5))
