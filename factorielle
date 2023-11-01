@@ -16,3 +16,4 @@ def factorielle_rec(n):
         return n* factorielle_rec(n-1)
 
 print(factorielle_rec(5))
+
