@@ -81,9 +81,9 @@ while True:
     print(sequence)
     time.sleep(choix_dict['duree_memo'])
     clear_screen()
-    sequnce_retenue = input('Entrer la séquence retenue')
+    sequence_retenue = input('Entrer la séquence retenue')
 
-    if sequence == sequnce_retenue:
+    if sequence == sequence_retenue:
         score += 1
         sequence += generer_sequence(choix_dict['sequence_inc'])
     else:
