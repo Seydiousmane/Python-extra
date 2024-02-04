@@ -21,3 +21,13 @@ if nb_occurences > 0:
         index_occurence += 1
 else:
     print("L'élément n'est pas dans la collection")
+
+
+a = "Jean-Martin-Toto"
+i = a.find("Martin")
+print(i) #Retourne 5
+#On ne peut pas utiliser find dans une liste
+
+a = "Jean-Martin-Toto"
+i = a.find("martin")
+print(i) #Retourne -1
